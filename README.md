@@ -1,66 +1,64 @@
-<h1 align="center">Hi there, I'm Puspita Das 👋</h1>
+# Hi there! 👋 I'm a Frontend Developer
 
-<p align="center">
-  🚀 Frontend Developer | 🎨 Passionate about modern UI/UX | ✨ Animation Enthusiast
-</p>
+Welcome to my GitHub profile! I'm passionate about crafting modern, visually appealing web applications with a focus on performance, interactivity, and contemporary UI aesthetics. Here's a bit more about me:
 
----
+## 💻 Skills
 
-## 🛠️ About Me
-I'm a **Frontend Developer** with a strong foundation in creating visually engaging and interactive user interfaces. My passion lies in bringing designs to life with modern technologies and animation libraries. I focus on crafting seamless user experiences, optimizing performance, and maintaining accessibility standards.
+- **Languages & Tools**: HTML, CSS, JavaScript, Tailwind CSS, ReactJS
+- **Animation Libraries**: GSAP, Locomotive Scroll, Framer Motion, SheryJS
+- **Specializations**:
+  - Responsive web design
+  - Smooth animations and scrolling effects
+  - Interactive and user-friendly interfaces
 
----
+## 🛠️ Projects
 
-## 💻 Tech Stack
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: ReactJS, Tailwind CSS, GSAP, Locomotive Scroll, SheryJS, Framer Motion
-- **Tools**: Git, Figma, Vercel, Netlify
-- **Specializations**: Responsive Design, Animation Integration, UI/UX Design
+### 🌟 [Obys Agency Website Clone](https://github.com/Ultron1507/obys-agency-clone)
 
----
+- **Technologies**: HTML, CSS, JavaScript, GSAP, Locomotive Scroll, SheryJS
+- **Description**: 
+  - A clone of the Obys Agency website showcasing advanced animations and interactive elements.
+  - Features smooth scrolling, modern design, and visually engaging user experiences.
+  - Demonstrates expertise in animation libraries and responsive web development.
 
-## 🏆 Projects
+### 🚀 [Modern Web Interface](https://github.com/Ultron1507/modern-interface)
 
-### 🌟 [Obys Agency Website Clone](https://github.com/Ultron1507/obys-clone)
-- **Technologies**: HTML, CSS, JavaScript, GSAP, Locomotive Scroll, SheryJS  
-- **Highlights**:  
-  - Replicated the modern, visually immersive design of the Obys Agency website.  
-  - Implemented **advanced animations**, **smooth scrolling**, and **interactive elements** for a seamless user experience.  
-  - Optimized performance for fast load times and responsive layouts.  
+- **Technologies**: ReactJS, Tailwind CSS, Framer Motion
+- **Description**: 
+  - Designed and developed a modern, responsive web interface with smooth animations and interactivity.
+  - Focused on performance optimization and contemporary UI aesthetics.
+  - Delivered a seamless and engaging user experience.
 
----
+## 📫 Connect with Me
 
-### 🌟 [Modern Animated Web Interface](https://github.com/Ultron1507/modern-animated-interface)
-- **Technologies**: ReactJS, Tailwind CSS, Framer Motion  
-- **Highlights**:  
-  - Designed and developed a sleek, **responsive web interface** prioritizing contemporary UI aesthetics.  
-  - Integrated **smooth animations** for dynamic interactions.  
-  - Focused on performance optimization and a polished user experience.  
+- **GitHub**: [github.com/Ultron1507](https://github.com/Ultron1507)
+- **LinkedIn**: [LinkedIn](https://linkedin.com/in/puspita-das)
 
----
+## 🔧 How to Use My Projects
 
-## 🌟 Let's Connect!
-- **Portfolio**: [YourPortfolioLink](https://example.com)  
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- **GitHub**: [Ultron1507](https://github.com/Ultron1507)  
-- **Email**: yourname@example.com  
+1. Clone the repository: 
+   ```bash
+   git clone https://github.com/Ultron1507/<repository-name>.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd <repository-name>
+   ```
+3. Install dependencies (for React projects):
+   ```bash
+   npm install
+   ```
+4. Run the project locally:
+   ```bash
+   npm start
+   ```
 
----
+## 🌟 Highlights
 
-## ✨ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultron1507&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ultron1507&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ultron1507&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🎯 My Goals
-- Learn and integrate 3D Web Technologies.  
-- Create more immersive and interactive web applications.  
-- Stay updated with the latest trends in frontend development.  
+- Expertise in creating animated websites and modern UIs.
+- Passionate about delivering high-quality, visually engaging applications.
+- Continuously learning and growing as a developer.
 
 ---
 
-⭐️ _“Building the web, one pixel at a time.”_  
+🌟 **Thank you for visiting my profile!** 🌟 Feel free to check out my repositories and connect with me for collaborations or discussions.
