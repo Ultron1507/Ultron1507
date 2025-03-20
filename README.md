@@ -1,42 +1,45 @@
-# Hi there! 👋 I'm a Frontend Developer
+# Hi there! I'm a Frontend Developer
 
-Welcome to my GitHub profile! I'm passionate about crafting modern, visually appealing web applications with a focus on performance, interactivity, and contemporary UI aesthetics. Here's a bit more about me:
+Welcome to my GitHub profile! I specialize in crafting modern, high-performance web applications with a strong focus on interactivity, responsiveness, and smooth animations.
 
-## 💻 Skills
+## Skills
 
-- **Languages & Tools**: HTML, CSS, JavaScript, Tailwind CSS, ReactJS
-- **Animation Libraries**: GSAP, Locomotive Scroll, Framer Motion, SheryJS
-- **Specializations**:
-  - Responsive web design
+- **Languages & Frameworks:** HTML, CSS, JavaScript, ReactJS, Tailwind CSS
+- **State Management:** Redux, Redux Toolkit
+- **Animation Libraries:** GSAP, Framer Motion, Locomotive Scroll, SheryJS
+- **Key Expertise:**
+  - Responsive and interactive UI/UX
   - Smooth animations and scrolling effects
-  - Interactive and user-friendly interfaces
+  - Performance optimization
 
-## 🛠️ Projects
+## Projects
 
-### 🌟 [Obys Agency Website Clone](https://github.com/Ultron1507/obys-agency-clone)
+### Redux Movie App
+**[Repository](https://github.com/Ultron1507/React-Movie-App)**  
+- **Tech Stack:** ReactJS, Redux Toolkit, React Router, TMDb API, Tailwind CSS, React Infinite Scroll Component
+- **Description:** A fully functional movie and TV show app with trending content, search functionality, infinite scroll, and a dynamic UI.
+- **Features:**
+  - Fetches daily trending movies and TV shows
+  - Search bar for quick content discovery
+  - Redux for efficient state management
+  - Dynamic hero section with changing background images
+  - Sidebar navigation and filter options
+  - Watch trailer functionality
+  - Infinite scrolling for smooth browsing
 
-- **Technologies**: HTML, CSS, JavaScript, GSAP, Locomotive Scroll, SheryJS
-- **Description**: 
-  - A clone of the Obys Agency website showcasing advanced animations and interactive elements.
-  - Features smooth scrolling, modern design, and visually engaging user experiences.
-  - Demonstrates expertise in animation libraries and responsive web development.
+### Obys Agency Website Clone
+**[Repository](https://github.com/Ultron1507/obys-agency-clone)**  
+- **Tech Stack:** HTML, CSS, JavaScript, GSAP, Locomotive Scroll, SheryJS
+- **Description:** A pixel-perfect clone of the Obys Agency website featuring smooth scrolling, engaging animations, and a modern design.
 
-### 🚀 [Modern Web Interface](https://github.com/Ultron1507/modern-interface)
+### Modern Web Interface
+**[Repository](https://github.com/Ultron1507/modern-interface)**  
+- **Tech Stack:** ReactJS, Tailwind CSS, Framer Motion
+- **Description:** A fully responsive web interface with dynamic animations, interactive UI elements, and optimized performance.
 
-- **Technologies**: ReactJS, Tailwind CSS, Framer Motion
-- **Description**: 
-  - Designed and developed a modern, responsive web interface with smooth animations and interactivity.
-  - Focused on performance optimization and contemporary UI aesthetics.
-  - Delivered a seamless and engaging user experience.
+## How to Use My Projects
 
-## 📫 Connect with Me
-
-- **GitHub**: [github.com/Ultron1507](https://github.com/Ultron1507)
-- **LinkedIn**: [LinkedIn](https://linkedin.com/in/puspita-das)
-
-## 🔧 How to Use My Projects
-
-1. Clone the repository: 
+1. Clone the repository:  
    ```bash
    git clone https://github.com/Ultron1507/<repository-name>.git
    ```
@@ -44,21 +47,21 @@ Welcome to my GitHub profile! I'm passionate about crafting modern, visually app
    ```bash
    cd <repository-name>
    ```
-3. Install dependencies (for React projects):
+3. Install dependencies:
    ```bash
    npm install
    ```
-4. Run the project locally:
+4. Start the development server:
    ```bash
    npm start
    ```
 
-## 🌟 Highlights
+## Connect with Me
 
-- Expertise in creating animated websites and modern UIs.
-- Passionate about delivering high-quality, visually engaging applications.
-- Continuously learning and growing as a developer.
+- **GitHub:** [Ultron1507](https://github.com/Ultron1507)
+- **LinkedIn:** [Puspita Das](https://linkedin.com/in/puspita-das)
 
 ---
 
-🌟 **Thank you for visiting my profile!** 🌟 Feel free to check out my repositories and connect with me for collaborations or discussions.
+I am passionate about creating engaging digital experiences. Feel free to explore my projects and reach out for collaboration or discussions!
+
