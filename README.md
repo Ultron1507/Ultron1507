@@ -32,15 +32,15 @@ Welcome to my GitHub profile! I’m passionate about building modern, interactiv
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" /><br>Redux Toolkit
     </td>
     <td align="center">
-      <img src="![image3](image3)" width="60" alt="Tailwind CSS" /><br>Tailwind CSS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" /><br>Tailwind CSS
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="![image2](image2)" width="40" alt="GSAP" /><br>GSAP
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" width="40" alt="GSAP" /><br>GSAP
     </td>
     <td align="center">
-      <img src="![image1](image1)" width="60" alt="Framer Motion" /><br>Framer Motion
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="40" alt="Framer Motion" /><br>Framer Motion
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrollreveal.svg" width="40" alt="Locomotive Scroll" /><br>Locomotive Scroll
@@ -124,3 +124,5 @@ A fully responsive, dynamic web interface with interactive UI elements and optim
 
 I’m always eager to collaborate, discuss ideas, or just chat about frontend tech!  
 Feel free to explore my projects and reach out — let’s create something amazing together!
+
+```
