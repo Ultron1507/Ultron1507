@@ -1,125 +1,78 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-ReactJS%20%7C%20TailwindCSS%20%7C%20Framer%20Motion-blueviolet?style=for-the-badge" alt="Frontend Developer Badge" />
-</p>
+# Hi there! 👋 I'm Puspita Das — Frontend Developer & UI Enthusiast
 
-# Hi there! I'm Puspita Das — Frontend Developer & UI Enthusiast 👋
-
-Welcome to my GitHub profile! I’m passionate about building modern, interactive web experiences with a strong focus on performance, smooth animations, and pixel-perfect design.
+Welcome to my GitHub profile!  
+I specialize in crafting **modern**, **high-performance** web applications with a strong focus on **interactivity**, **responsiveness**, and **smooth animations**.  
+I love bringing designs to life and creating **engaging digital experiences**.
 
 ---
 
-## About Me
+## 🛠️ Skills
 
-- Frontend Developer specializing in crafting high-performance, visually engaging web applications.
-- I love exploring new UI trends, animation libraries, and performance optimization techniques.
-- Obsessed with creating seamless, interactive user experiences.
+### Languages & Frameworks  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### State Management  
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
+![Redux Toolkit](https://img.shields.io/badge/Redux--Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-## Tech Stack
+### Animation Libraries  
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)  
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)  
+![Locomotive Scroll](https://img.shields.io/badge/Locomotive--Scroll-black?style=for-the-badge)  
+![SheryJS](https://img.shields.io/badge/SheryJS-black?style=for-the-badge)
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /><br>HTML5
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /><br>CSS3
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="ReactJS" /><br>ReactJS
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux Toolkit" /><br>Redux Toolkit
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" /><br>Tailwind CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gsap/gsap-original.svg" width="40" alt="GSAP" /><br>GSAP
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="40" alt="Framer Motion" /><br>Framer Motion
-    </td>
-  </tr>
-</table>
-
-- **Key Expertise:**  
-  Responsive and interactive UI/UX, smooth animations & scrolling effects, performance optimization.
+### Key Expertise  
+✅ Responsive and interactive UI/UX  
+✅ Smooth animations and scrolling effects  
+✅ Performance optimization  
 
 ---
 
-## Featured Projects
+## 🚀 Projects
 
-### Redux Movie App
+### 🎬 Redux Movie App  
 **[Repository](https://github.com/Ultron1507/React-Movie-App)**  
-A fully functional movie and TV show app with trending content, powerful search, infinite scroll, and a dynamic UI.
+**Tech Stack:** ReactJS, Redux Toolkit, React Router, TMDb API, Tailwind CSS, React Infinite Scroll Component  
 
-- **Tech:** ReactJS, Redux Toolkit, React Router, TMDb API, Tailwind CSS, Infinite Scroll
-- **Highlights:**
-  - Daily trending movies & TV shows
-  - Lightning-fast search
-  - Dynamic hero banners
-  - Sidebar navigation & filters
-  - Watch trailer functionality
-  - Infinite smooth scrolling
+**Description:**  
+A fully functional movie and TV show app with **trending content**, **search functionality**, **infinite scroll**, and a dynamic UI.  
+
+**Features:**  
+- Fetches daily trending movies and TV shows  
+- Search bar for quick content discovery  
+- Redux for efficient state management  
+- Dynamic hero section with changing background images  
+- Sidebar navigation and filter options  
+- Watch trailer functionality  
+- Infinite scrolling for smooth browsing  
 
 ---
 
-### Obys Agency Website Clone
+### 🌐 Obys Agency Website Clone  
 **[Repository](https://github.com/Ultron1507/obys-agency-clone)**  
-A pixel-perfect, animated clone of the Obys Agency website featuring smooth scrolling and stunning animations.
+**Tech Stack:** HTML, CSS, JavaScript, GSAP, Locomotive Scroll, SheryJS  
 
-- **Tech:** HTML, CSS, JavaScript, GSAP
-- **Highlights:**  
-  - Engaging, fluid animations  
-  - Modern, minimalistic design  
-  - True-to-original visual fidelity
+**Description:**  
+A pixel-perfect clone of the **Obys Agency** website featuring **smooth scrolling**, **engaging animations**, and a **modern design**.
 
 ---
 
-### Modern Web Interface
+### 🖥️ Modern Web Interface  
 **[Repository](https://github.com/Ultron1507/modern-interface)**  
-A fully responsive, dynamic web interface with interactive UI elements and optimized performance.
+**Tech Stack:** ReactJS, Tailwind CSS, Framer Motion  
 
-- **Tech:** ReactJS, Tailwind CSS, Framer Motion
-- **Highlights:**  
-  - Responsive layouts  
-  - Animated transitions  
-  - Clean, modern UI
+**Description:**  
+A fully responsive web interface with **dynamic animations**, **interactive UI elements**, and **optimized performance**.
 
 ---
 
-## Tools & Currently Learning 🚀
+## 📝 How to Use My Projects
 
-- **Tools:**  
-  VS Code, Git, GitHub, Figma, Chrome DevTools
-  
-- **Currently Learning:**  
-  Next.js, TypeScript, Advanced Animations with GSAP + Framer Motion, Web Performance Optimization
-
----
-
-## GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ultron1507&show_icons=true&theme=radical" alt="Puspita's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ultron1507&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## Getting Started with My Projects
-
-1. **Clone the repository:**  
+1. Clone the repository:  
    ```bash
    git clone https://github.com/Ultron1507/<repository-name>.git
 
