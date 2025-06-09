@@ -32,21 +32,18 @@ Welcome to my GitHub profile! I’m passionate about building modern, interactiv
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" /><br>Redux Toolkit
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" /><br>Tailwind CSS
+      <img src="![image3](image3)" width="60" alt="Tailwind CSS" /><br>Tailwind CSS
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" width="40" alt="GSAP" /><br>GSAP
+      <img src="![image2](image2)" width="40" alt="GSAP" /><br>GSAP
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/framer/brand/f6a72fb6d8c0b3f4c30f1c48d2e7a1b7e7eb5e7e/framer/Framer-Logo.svg" width="40" alt="Framer Motion" /><br>Framer Motion
+      <img src="![image1](image1)" width="60" alt="Framer Motion" /><br>Framer Motion
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrollreveal.svg" width="40" alt="Locomotive Scroll" /><br>Locomotive Scroll
-    </td>
-    <td align="center">
-      <img src="https://sheryjs.pages.dev/favicon.ico" width="40" alt="SheryJS" /><br>SheryJS
     </td>
   </tr>
 </table>
@@ -77,7 +74,7 @@ A fully functional movie and TV show app with trending content, powerful search,
 **[Repository](https://github.com/Ultron1507/obys-agency-clone)**  
 A pixel-perfect, animated clone of the Obys Agency website featuring smooth scrolling and stunning animations.
 
-- **Tech:** HTML, CSS, JavaScript, GSAP, Locomotive Scroll, SheryJS
+- **Tech:** HTML, CSS, JavaScript, GSAP, Locomotive Scroll
 - **Highlights:**  
   - Engaging, fluid animations  
   - Modern, minimalistic design  
