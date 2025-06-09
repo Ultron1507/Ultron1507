@@ -1,4 +1,8 @@
-# Hi there! I'm Puspita Das — Frontend Developer & UI Enthusiast
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-ReactJS%20%7C%20TailwindCSS%20%7C%20Framer%20Motion-blueviolet?style=for-the-badge" alt="Frontend Developer Badge" />
+</p>
+
+# Hi there! I'm Puspita Das — Frontend Developer & UI Enthusiast 👋
 
 Welcome to my GitHub profile! I’m passionate about building modern, interactive web experiences with a strong focus on performance, smooth animations, and pixel-perfect design.
 
@@ -29,7 +33,7 @@ Welcome to my GitHub profile! I’m passionate about building modern, interactiv
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="ReactJS" /><br>ReactJS
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux" /><br>Redux Toolkit
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" alt="Redux Toolkit" /><br>Redux Toolkit
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" /><br>Tailwind CSS
@@ -41,9 +45,6 @@ Welcome to my GitHub profile! I’m passionate about building modern, interactiv
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="40" alt="Framer Motion" /><br>Framer Motion
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrollreveal.svg" width="40" alt="Locomotive Scroll" /><br>Locomotive Scroll
     </td>
   </tr>
 </table>
@@ -74,7 +75,7 @@ A fully functional movie and TV show app with trending content, powerful search,
 **[Repository](https://github.com/Ultron1507/obys-agency-clone)**  
 A pixel-perfect, animated clone of the Obys Agency website featuring smooth scrolling and stunning animations.
 
-- **Tech:** HTML, CSS, JavaScript, GSAP, Locomotive Scroll
+- **Tech:** HTML, CSS, JavaScript, GSAP
 - **Highlights:**  
   - Engaging, fluid animations  
   - Modern, minimalistic design  
@@ -94,12 +95,34 @@ A fully responsive, dynamic web interface with interactive UI elements and optim
 
 ---
 
+## Tools & Currently Learning 🚀
+
+- **Tools:**  
+  VS Code, Git, GitHub, Figma, Chrome DevTools
+  
+- **Currently Learning:**  
+  Next.js, TypeScript, Advanced Animations with GSAP + Framer Motion, Web Performance Optimization
+
+---
+
+## GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ultron1507&show_icons=true&theme=radical" alt="Puspita's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ultron1507&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
 ## Getting Started with My Projects
 
-1. **Clone the repo:**  
+1. **Clone the repository:**  
    ```bash
    git clone https://github.com/Ultron1507/<repository-name>.git
-   ```
+
 2. **Navigate into the project:**  
    ```bash
    cd <repository-name>
