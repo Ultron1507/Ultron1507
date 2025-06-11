@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Puspita Das — Frontend Developer & UI Enthusiast
+# Hi there! 👋 I'm Puspita Das — Frontend Developer 
 
 Welcome to my GitHub profile!  
 I specialize in crafting **modern**, **high-performance** web applications with a strong focus on **interactivity**, **responsiveness**, and **smooth animations**.  
