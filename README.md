@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ultron1507+👋;MERN+Stack+Developer;Building+the+Future+One+App+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Puspita+👋;MERN+Stack+Developer;Building+the+Future+One+App+at+a+Time" alt="Typing SVG" />
 </div>
 
 <br>
@@ -48,27 +48,13 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Tools & Others**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Tools & Others** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
-
-### 🔥 Featured Projects
-
-**🚀 [Project Name 1]** - *Short description*  
-Modern full-stack app built with Next.js 15, TypeScript, Tailwind & MongoDB. Features real-time updates with Socket.io.
-
-**🌟 [Project Name 2]** - *Short description*  
-Scalable SaaS platform with role-based authentication, payments (Stripe), and admin dashboard.
-
-**💼 [Project Name 3]** - *Short description*  
-E-commerce platform with advanced filtering, cart management, and order tracking.
-
-> Check out my [Repositories](https://github.com/Ultron1507?tab=repositories) for more!
 
 ---
 
@@ -85,20 +71,12 @@ E-commerce platform with advanced filtering, cart management, and order tracking
 
 ---
 
-### 🎯 Currently Learning
-- Advanced System Design & Microservices
-- Next.js App Router & Server Actions
-- Kubernetes & DevOps practices
-
----
-
 <div align="center">
   <h3>Let's connect and build something awesome together!</h3>
   <p>
     <strong>Always open to interesting opportunities and collaborations.</strong>
   </p>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
 </div>
 
 ---
